@@ -1,0 +1,14 @@
+body{
+    background-image: url(assets/bg.jpg) ; 
+    background-size: cover;
+}
+
+#page{
+    box-sizing: border-box;  /*aqui eu tirei o padrão da caixa*/
+    width: 800px;
+    padding: 24px;
+    background-color: #f0ebc2;
+    border-radius: 24px;
+    margin: 48px auto;
+
+}
